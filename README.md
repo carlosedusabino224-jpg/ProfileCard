@@ -19,10 +19,6 @@ Nesse projeto fiz um card de perfil usando HTML e CSS, com minha foto, algumas i
 - Links externos
 - Imagens
 
-## Preview
-
-![Card de Perfil](eu.jpg)
-
 ## Links
 
 [GitHub](https://github.com/carlosedusabino224-jpg)
